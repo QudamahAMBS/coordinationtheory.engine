@@ -1,4 +1,4 @@
-// Copyright (c) 2023. This is source code is not to be used without the author's authorisation.
+// Copyright (c) 2023.
 // Author: Dr. Qudamah Quboa <qudamah.quboa@manchester.ac.uk>
 
 package coordinationtheory.engine;
